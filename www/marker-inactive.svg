@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="40" viewBox="0 0 20 40">
+  <!-- Pin Body -->
+  <path fill="#f9423a" d="M10 0C4.48 0 0 4.48 0 10c0 5.2 7.8 12.7 8.25 13.2 0.06 0.06 0.13 0.06 0.19 0 0.45-0.45 8.25-8.03 8.25-13.2C20 4.48 15.52 0 10 0z"/>
+
+  <!-- Center Circle -->
+  <circle cx="9" cy="10" r="3" fill="#fbdd40" stroke="#ffffff" stroke-width="1"/>
+
+  <!-- Upper portion removal -->
+  <path fill="none" d="M10 1.2C5.56 1.2 2.4 4.36 2.4 8.8c0 4.68 7.08 11.6 7.5 12 0.06 0.06 0.14 0.06 0.2 0 0.42-0.42 7.5-7.32 7.5-12 0-4.44-3.16-7.6-7.6-7.6z"/>
+
+  <!-- Small Transparent Circle -->
+  <circle cx="9" cy="10" r="2" fill="none" stroke="none"/>
+
+  <!-- Pin Head -->
+  <circle cx="9" cy="27" r="3" fill="#f9423a"/>
+
+  <!-- Pin Shadow -->
+  <ellipse cx="9" cy="34" rx="4.5" ry="1.5" fill="#333" opacity="0.4"/>
+</svg>
